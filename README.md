@@ -14,4 +14,18 @@ ___
 Метод обхода дерева – Прямой.\
 Алгоритм поиска слова в тексте – Прямой.\
 
+Более подробное описание тут-> [4932_Верзун_Курсовая.pdf](https://github.com/ArtemVerzun/SAOD/files/12441205/4932_._.pdf)
+
+### Результат
+
+![Рисунок1](https://github.com/ArtemVerzun/SAOD/assets/143192676/da2780a8-89fd-43f2-bfde-a34f18d1835e)\
+![Рисунок2](https://github.com/ArtemVerzun/SAOD/assets/143192676/3e1fa2e3-1ccc-45fd-8129-a19c22179ae8)\
+![Рисунок3](https://github.com/ArtemVerzun/SAOD/assets/143192676/b3637d2b-f12b-4155-9733-ca83df3d9afe)\
+![Рисунок4](https://github.com/ArtemVerzun/SAOD/assets/143192676/7ef4670c-dd53-4769-ae4c-ef64e1bac183)\
+![Рисунок5](https://github.com/ArtemVerzun/SAOD/assets/143192676/5e965d49-6d5e-4e19-a82c-700ecf2a7542)\
+![Рисунок6](https://github.com/ArtemVerzun/SAOD/assets/143192676/3ebb23d0-170c-463c-9e72-80c460750c94)\
+![Рисунок7](https://github.com/ArtemVerzun/SAOD/assets/143192676/f258651c-a6bc-4738-9bb6-3e82e308857e)\
+![Рисунок8](https://github.com/ArtemVerzun/SAOD/assets/143192676/64040930-5af0-4f76-b20f-6e9e0812b2e8)\
+![Рисунок9](https://github.com/ArtemVerzun/SAOD/assets/143192676/ba3ee16d-c4db-47df-99c5-f3b57a63007e)\
+![Рисунок10](https://github.com/ArtemVerzun/SAOD/assets/143192676/fbf5067c-888f-4667-b3db-be4d951ce752)
 
